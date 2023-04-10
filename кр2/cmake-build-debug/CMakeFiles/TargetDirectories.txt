@@ -1,0 +1,12 @@
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/CMakeFiles/SLAE.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/Matrix/CMakeFiles/SLAE2_0.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/Matrix/CMakeFiles/test.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/Matrix/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/Matrix/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/solving/CMakeFiles/SLAE2.0.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/solving/CMakeFiles/test.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/solving/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/SLAE2.0/cmake-build-debug/solving/CMakeFiles/rebuild_cache.dir
